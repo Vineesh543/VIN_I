@@ -1,0 +1,57 @@
+body{
+       background-image: url('https://www.cushionvilla.com/cdn/shop/files/27_720x.jpg?v=1723782728');
+
+    height: 100vh;
+    width: 100vw;
+     background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    
+    
+    
+}
+
+.button1{
+    color:white;
+    background-color: blue;
+    margin-right: auto;
+    border-radius:10px;
+    cursor: pointer;
+
+}
+
+.a1{
+    margin-right: 20px;
+    margin-top:10px;
+}
+
+.cute{
+    color:#af811e;
+}
+.p2{
+    color:rgb(233, 165, 199);
+    background-color: azure;
+    padding: 3px;
+    
+    align-items: center;
+}
+.body2{
+    background-image: url('https://wallpapers.com/images/high/disney-world-desktop-2880-x-1800-rny2sgi3i3xjijuq.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.button3{
+    color:white;
+    background-color: blue;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.button3:hover{
+    color:pink;
+}
+.button1:hover{
+    color:pink;
+}
+.main1{
+    text-align: center;
+}
